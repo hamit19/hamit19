@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://sub.EndOfTheLine.cloud/subscribe?tkn=fd82ce20d1c10d1e222df8e15
+<!-- https://sub.EndOfTheLine.cloud/subscribe?tkn=fd82ce20d1c10d1e222df8e15 -->
 
 <!--
 **hamit19/hamit19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
